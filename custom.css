@@ -1,0 +1,19 @@
+#jenkins-head-icon {
+    height: 2.5rem;
+}
+
+#jenkins-name-icon {
+  display: none;
+}
+
+.logo:after {
+content: 'SpaceCI';
+font-weight: bold;
+font-size: 25px;
+font-family:"Arial Black";
+margin-left: 20px;
+margin-right: 12px;
+/*color: #9E9E9E;*/
+color: #C0C0C0;
+line-height: 40px;
+}
