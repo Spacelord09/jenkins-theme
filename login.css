@@ -8,27 +8,6 @@ input{
 	color: white !important;
 }
 
-/*
-input:not([type=submit]){
-	color: white !important;
-}
-
-input[type=submit]{
-	color: white !important;
-}
-*/
-
-.Checkbox input[type="checkbox"] + .Checkbox-indicator{
-	background-color: #3F3F3F;
-}
-
-.logo{
-	background: url('https://static.spacecdn.de/logo/logo_eng.svg') !important;
-	background-repeat: no-repeat !important;
-	background-size: contain !important;
-	background-position: 50% !important;
-}
-
 #loginIntroDefault > h1:nth-child(2) {
 	font-family:"Arial Black";
 }
